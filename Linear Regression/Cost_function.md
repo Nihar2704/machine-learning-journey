@@ -1,4 +1,4 @@
-## Cost Fucntion
+## Cost Function
 
 ### Mean Squared Error(MSE) 
 
